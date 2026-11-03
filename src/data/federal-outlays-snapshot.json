@@ -1,0 +1,184 @@
+{
+  "fiscalYear": 2025,
+  "totalOutlays": 7009973667049.3,
+  "currency": "USD",
+  "source": "U.S. Department of the Treasury, Monthly Treasury Statement (MTS), Final Fiscal Year 2025, Table 9, Summary of Receipts and Outlays by Function (net outlays, fiscal-year-to-date through 2025-09-30).",
+  "sourceShort": "Treasury Monthly Treasury Statement, Final FY2025 (Table 9)",
+  "sourceUrl": "https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/summary-of-receipts-and-outlays-of-the-u-s-government",
+  "apiEndpoint": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/mts/mts_table_9?filter=record_date:eq:2025-09-30",
+  "retrieved": "2026-06-27",
+  "note": "Net outlays. Some functions can be net-negative (accounting offsets that reduce total spending), shown as credits on the receipt. The functions sum exactly to totalOutlays.",
+  "categories": [
+    {
+      "id": "social_security",
+      "functionCode": "650",
+      "name": "Social Security",
+      "shortName": "Social Security",
+      "icon": "👵",
+      "explainer": "Monthly retirement, survivor, and disability benefits for workers and their families. Funded mainly by the payroll taxes shown separately in your tax breakdown.",
+      "amount": 1580685783033.83
+    },
+    {
+      "id": "medicare",
+      "functionCode": "570",
+      "name": "Medicare",
+      "shortName": "Medicare",
+      "icon": "🩺",
+      "explainer": "Health coverage for Americans age 65+ and some younger people with disabilities. Partly funded by the Medicare payroll tax shown separately.",
+      "amount": 996719243004.76
+    },
+    {
+      "id": "health",
+      "functionCode": "550",
+      "name": "Health",
+      "shortName": "Health",
+      "icon": "🏥",
+      "explainer": "Health spending other than Medicare, Medicaid, the Children's Health Insurance Program, public health, NIH research, and ACA subsidies.",
+      "amount": 978877168639.95
+    },
+    {
+      "id": "net_interest",
+      "functionCode": "900",
+      "name": "Net Interest",
+      "shortName": "Interest on the debt",
+      "icon": "💳",
+      "explainer": "Interest the government pays on the national debt, minus interest it earns. This buys no services today, it is the cost of past borrowing.",
+      "amount": 970358886994.32
+    },
+    {
+      "id": "national_defense",
+      "functionCode": "050",
+      "name": "National Defense",
+      "shortName": "National defense",
+      "icon": "🛡️",
+      "explainer": "Military personnel and operations, weapons procurement, and defense research, primarily the Department of Defense.",
+      "amount": 916648676662.05
+    },
+    {
+      "id": "income_security",
+      "functionCode": "600",
+      "name": "Income Security",
+      "shortName": "Income security",
+      "icon": "🍞",
+      "explainer": "Support for basic needs: unemployment insurance, SNAP (food assistance), housing aid, refundable tax credits, and federal employee retirement.",
+      "amount": 701583598129.63
+    },
+    {
+      "id": "veterans",
+      "functionCode": "700",
+      "name": "Veterans Benefits and Services",
+      "shortName": "Veterans",
+      "icon": "🎖️",
+      "explainer": "Health care, disability compensation, pensions, and education benefits for military veterans and their families.",
+      "amount": 377161882980.59
+    },
+    {
+      "id": "transportation",
+      "functionCode": "400",
+      "name": "Transportation",
+      "shortName": "Transportation",
+      "icon": "🚧",
+      "explainer": "Highways, mass transit, aviation and air traffic control, railroads, and maritime programs.",
+      "amount": 145804369616.67
+    },
+    {
+      "id": "natural_resources",
+      "functionCode": "300",
+      "name": "Natural Resources and Environment",
+      "shortName": "Natural resources & environment",
+      "icon": "🌲",
+      "explainer": "National parks and public lands, the EPA, conservation, water resources, and pollution control.",
+      "amount": 88312257165.92
+    },
+    {
+      "id": "administration_of_justice",
+      "functionCode": "750",
+      "name": "Administration of Justice",
+      "shortName": "Justice & law enforcement",
+      "icon": "⚖️",
+      "explainer": "Federal law enforcement (FBI, DEA), the federal courts, prisons, and immigration enforcement.",
+      "amount": 85180458290
+    },
+    {
+      "id": "community_development",
+      "functionCode": "450",
+      "name": "Community and Regional Development",
+      "shortName": "Community development",
+      "icon": "🏗️",
+      "explainer": "Disaster relief and recovery, community and rural development, and regional economic programs.",
+      "amount": 84529870131.32
+    },
+    {
+      "id": "education",
+      "functionCode": "500",
+      "name": "Education, Training, Employment, and Social Services",
+      "shortName": "Education & training",
+      "icon": "🎓",
+      "explainer": "Student financial aid, K-12 grants, job training, and social services. (FY2025 reflects large student-loan accounting adjustments.)",
+      "amount": 69194134949.41
+    },
+    {
+      "id": "agriculture",
+      "functionCode": "350",
+      "name": "Agriculture",
+      "shortName": "Agriculture",
+      "icon": "🌾",
+      "explainer": "Farm income support, crop insurance, and agricultural research and conservation.",
+      "amount": 49337681356.37
+    },
+    {
+      "id": "international_affairs",
+      "functionCode": "150",
+      "name": "International Affairs",
+      "shortName": "International affairs",
+      "icon": "🌍",
+      "explainer": "Diplomacy and embassies, foreign economic and humanitarian aid, and international security assistance.",
+      "amount": 45169891179.7
+    },
+    {
+      "id": "science_space",
+      "functionCode": "250",
+      "name": "General Science, Space, and Technology",
+      "shortName": "Science & space (NASA)",
+      "icon": "🚀",
+      "explainer": "NASA, the National Science Foundation, and basic scientific research across federal agencies.",
+      "amount": 42084437535.94
+    },
+    {
+      "id": "general_government",
+      "functionCode": "800",
+      "name": "General Government",
+      "shortName": "General government",
+      "icon": "🏛️",
+      "explainer": "The cost of running the federal government itself, the IRS, central management, legislative and executive operations.",
+      "amount": 36278602219.52
+    },
+    {
+      "id": "energy",
+      "functionCode": "270",
+      "name": "Energy",
+      "shortName": "Energy",
+      "icon": "⚡",
+      "explainer": "The electric grid, energy research, strategic reserves, and nuclear-site cleanup.",
+      "amount": 20892010637.8
+    },
+    {
+      "id": "commerce_housing_credit",
+      "functionCode": "370",
+      "name": "Commerce and Housing Credit",
+      "shortName": "Commerce & housing credit",
+      "icon": "🏘️",
+      "explainer": "Housing finance, the Postal Service, and commerce programs. Can be net-negative when loan repayments and fees exceed outlays, it reduces total spending.",
+      "amount": -28620513919.81
+    },
+    {
+      "id": "undistributed_offsetting_receipts",
+      "functionCode": "950",
+      "name": "Undistributed Offsetting Receipts",
+      "shortName": "Offsetting receipts",
+      "icon": "➖",
+      "explainer": "Accounting offsets subtracted from totals, chiefly agencies' payments into federal retirement funds and royalties from resources on public land.",
+      "amount": -150224771558.67
+    }
+  ]
+}

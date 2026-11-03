@@ -1,0 +1,214 @@
+{
+  "_note": "Committed sample of REAL USAspending award records for demo-safety so the map is never blank offline. Each item links to its live source record. Clearly labeled 'sample' in the UI.",
+  "_source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+  "zips": {
+    "94103": {
+      "centroid": [
+        37.7633,
+        -122.4264
+      ],
+      "awards": [
+        {
+          "id": "75N91018F00001",
+          "internalId": "CONT_AWD_75N91018F00001_7529_75N91018D00032_7529",
+          "recipient": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+          "amount": 40678118.51,
+          "agency": "Department of Health and Human Services",
+          "zip5": "94103",
+          "state": "CA",
+          "type": "contract",
+          "lat": 37.79142,
+          "lng": -122.42689
+        },
+        {
+          "id": "NA23OAR4310630",
+          "internalId": "ASST_NON_NA23OAR4310630_013",
+          "recipient": "MULTIPLIER",
+          "amount": 23081989.0,
+          "agency": "Department of Commerce",
+          "zip5": "94103",
+          "state": "CA",
+          "type": "grant",
+          "lat": 37.74797,
+          "lng": -122.43656
+        },
+        {
+          "id": "140D0420C0089",
+          "internalId": "CONT_AWD_140D0420C0089_1406_-NONE-_-NONE-",
+          "recipient": "STG INTERNATIONAL, INC.",
+          "amount": 22310789.99,
+          "agency": "Department of the Interior",
+          "zip5": "94103",
+          "state": "CA",
+          "type": "contract",
+          "lat": 37.7487,
+          "lng": -122.4452
+        },
+        {
+          "id": "75H70320C00009",
+          "internalId": "CONT_AWD_75H70320C00009_7527_-NONE-_-NONE-",
+          "recipient": "THE FRIENDSHIP HOUSE ASSOCIATION OF AMERICAN INDIANS",
+          "amount": 16615069.0,
+          "agency": "Department of Health and Human Services",
+          "zip5": "94103",
+          "state": "CA",
+          "type": "contract",
+          "lat": 37.78142,
+          "lng": -122.43218
+        },
+        {
+          "id": "36C77622C0103",
+          "internalId": "CONT_AWD_36C77622C0103_3600_-NONE-_-NONE-",
+          "recipient": "ICENOGLE CONSTRUCTION MANAGEMENT, INC.",
+          "amount": 15864744.98,
+          "agency": "Department of Veterans Affairs",
+          "zip5": "94103",
+          "state": "CA",
+          "type": "contract",
+          "lat": 37.74225,
+          "lng": -122.40493
+        },
+        {
+          "id": "W911NF2420109",
+          "internalId": "ASST_NON_W911NF2420109_097",
+          "recipient": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+          "amount": 12704616.0,
+          "agency": "Department of Defense",
+          "zip5": "94103",
+          "state": "CA",
+          "type": "grant",
+          "lat": 37.78947,
+          "lng": -122.45533
+        },
+        {
+          "id": "CA1246L9T012113",
+          "internalId": "ASST_NON_CA1246L9T012113_086",
+          "recipient": "CITY & COUNTY OF SAN FRANCISCO",
+          "amount": 12177679.19,
+          "agency": "Department of Housing and Urban Development",
+          "zip5": "94103",
+          "state": "CA",
+          "type": "grant",
+          "lat": 37.76765,
+          "lng": -122.42797
+        },
+        {
+          "id": "HR00111920007",
+          "internalId": "ASST_NON_HR00111920007_097",
+          "recipient": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+          "amount": 11504207.3,
+          "agency": "Department of Defense",
+          "zip5": "94103",
+          "state": "CA",
+          "type": "grant",
+          "lat": 37.75113,
+          "lng": -122.44521
+        }
+      ]
+    },
+    "10001": {
+      "centroid": [
+        40.7688,
+        -73.9723
+      ],
+      "awards": [
+        {
+          "id": "HT940213C0010",
+          "internalId": "CONT_AWD_HT940213C0010_9700_-NONE-_-NONE-",
+          "recipient": "SVCMC, INC.",
+          "amount": 1064728795.4,
+          "agency": "Department of Defense",
+          "zip5": "10001",
+          "state": "NY",
+          "type": "contract",
+          "lat": 40.75246,
+          "lng": -73.95916
+        },
+        {
+          "id": "HT940223C0009",
+          "internalId": "CONT_AWD_HT940223C0009_9700_-NONE-_-NONE-",
+          "recipient": "SVCMC, INC.",
+          "amount": 325504300.0,
+          "agency": "Department of Defense",
+          "zip5": "10001",
+          "state": "NY",
+          "type": "contract",
+          "lat": 40.75677,
+          "lng": -73.99305
+        },
+        {
+          "id": "75F40121F19001",
+          "internalId": "CONT_AWD_75F40121F19001_7524_75F40121D00016_7524",
+          "recipient": "TRUE NORTH COMMUNICATIONS INC",
+          "amount": 287074927.96,
+          "agency": "Department of Health and Human Services",
+          "zip5": "10001",
+          "state": "NY",
+          "type": "contract",
+          "lat": 40.77493,
+          "lng": -74.00101
+        },
+        {
+          "id": "75F40124F19003",
+          "internalId": "CONT_AWD_75F40124F19003_7524_75F40121D00016_7524",
+          "recipient": "TRUE NORTH COMMUNICATIONS INC",
+          "amount": 77060488.0,
+          "agency": "Department of Health and Human Services",
+          "zip5": "10001",
+          "state": "NY",
+          "type": "contract",
+          "lat": 40.78366,
+          "lng": -73.97253
+        },
+        {
+          "id": "NY1480H2T002200",
+          "internalId": "ASST_NON_NY1480H2T002200_086",
+          "recipient": "THE JERICHO PROJECT",
+          "amount": 8906646.0,
+          "agency": "Department of Housing and Urban Development",
+          "zip5": "10001",
+          "state": "NY",
+          "type": "grant",
+          "lat": 40.78528,
+          "lng": -73.98196
+        },
+        {
+          "id": "NY1044L2T002409",
+          "internalId": "ASST_NON_NY1044L2T002409_086",
+          "recipient": "THE JERICHO PROJECT",
+          "amount": 5047247.0,
+          "agency": "Department of Housing and Urban Development",
+          "zip5": "10001",
+          "state": "NY",
+          "type": "grant",
+          "lat": 40.79733,
+          "lng": -73.94423
+        },
+        {
+          "id": "NY1044L2T002308",
+          "internalId": "ASST_NON_NY1044L2T002308_086",
+          "recipient": "THE JERICHO PROJECT",
+          "amount": 4829448.0,
+          "agency": "Department of Housing and Urban Development",
+          "zip5": "10001",
+          "state": "NY",
+          "type": "grant",
+          "lat": 40.79814,
+          "lng": -73.99277
+        },
+        {
+          "id": "NY1044L2T002106",
+          "internalId": "ASST_NON_NY1044L2T002106_086",
+          "recipient": "THE JERICHO PROJECT",
+          "amount": 4425531.54,
+          "agency": "Department of Housing and Urban Development",
+          "zip5": "10001",
+          "state": "NY",
+          "type": "grant",
+          "lat": 40.76696,
+          "lng": -73.94536
+        }
+      ]
+    }
+  }
+}
